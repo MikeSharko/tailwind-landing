@@ -1,6 +1,9 @@
 ![image](https://user-images.githubusercontent.com/36647206/214469619-4d5f34c4-710c-47a3-8005-25cbd2f337f0.png)
 
 
+# Do not forget to download all dependencies
+### npm install
+
 
 # Getting Started with Create React App
 
